@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Vaishnavi Aravilli
+# 👋 Hi, I'm Radha Sri Lalitha Vaishnavi Aravilli
 
 ### Data Engineer · AWS Certified · 5+ Years of Experience
 

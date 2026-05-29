@@ -12,7 +12,7 @@
 [![Email](https://img.shields.io/badge/Email-vaishnaviaravilli.careers%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaishnaviaravilli.careers@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B1%20(612)%20293--0377-green?style=for-the-badge)](tel:+16122930377)
 
-![AWS Certified](https://img.shields.io/badge/AWS-Certified%20Data%20Engineer%20Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+[![AWS Certified](https://img.shields.io/badge/AWS-Certified%20Data%20Engineer%20Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/719bb414-ed12-4af6-8849-d7159a0e94f6/public_url)
 ![Location](https://img.shields.io/badge/Location-Minneapolis%2C%20MN-0078D4?style=flat-square&logo=googlemaps&logoColor=white)
 ![Open To Work](https://img.shields.io/badge/Open%20To-New%20Opportunities-brightgreen?style=flat-square)
 

@@ -28,7 +28,7 @@ I'm **Radha Sri Lalitha Vaishnavi Aravilli**, a Data Engineer with **5+ years of
 - ☁️ **AWS Certified Data Engineer – Associate**
 - 🎓 **Master's in IT & Management**, Concordia University, St. Paul, MN (2025)
 - 🎓 **Bachelor's in Computer Science**, Osmania University, Hyderabad, India (2021)
-- 💡 Passionate about healthcare data, real-time streaming, and data lake architecture
+- 💡 Passionate about data, real-time streaming, and data lake architecture
 - 📬 **vaishnaviaravilli.careers@gmail.com** | **+1 (612) 293-0377**
 
 ---
